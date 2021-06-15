@@ -1,4 +1,4 @@
-// create button to clear the city array
+
 // add functionality to pull current location weather if no current city selected?
 
 var cityList = [];
